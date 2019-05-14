@@ -1,0 +1,20 @@
+C:\Users\Minge\source\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala Archimedesa.csprojResolveAssemblyReference.cache
+C:\Users\Minge\source\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala_Archimedesa.Okno.resources
+C:\Users\Minge\source\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala_Archimedesa.Properties.Resources.resources
+C:\Users\Minge\source\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala Archimedesa.csproj.GenerateResource.Cache
+C:\Users\Minge\source\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala Archimedesa.csproj.CoreCompileInputs.cache
+C:\Users\Minge\source\repos\Spirala Archimedesa\Spirala Archimedesa\bin\Debug\Spirala Archimedesa.exe.config
+C:\Users\Minge\source\repos\Spirala Archimedesa\Spirala Archimedesa\bin\Debug\Spirala Archimedesa.exe
+C:\Users\Minge\source\repos\Spirala Archimedesa\Spirala Archimedesa\bin\Debug\Spirala Archimedesa.pdb
+C:\Users\Minge\source\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala Archimedesa.exe
+C:\Users\Minge\source\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala Archimedesa.pdb
+C:\Users\julek\Studia\repos\Spirala Archimedesa\Spirala Archimedesa\bin\Debug\Spirala Archimedesa.exe.config
+C:\Users\julek\Studia\repos\Spirala Archimedesa\Spirala Archimedesa\bin\Debug\Spirala Archimedesa.exe
+C:\Users\julek\Studia\repos\Spirala Archimedesa\Spirala Archimedesa\bin\Debug\Spirala Archimedesa.pdb
+C:\Users\julek\Studia\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala Archimedesa.csprojAssemblyReference.cache
+C:\Users\julek\Studia\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala_Archimedesa.Okno.resources
+C:\Users\julek\Studia\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala_Archimedesa.Properties.Resources.resources
+C:\Users\julek\Studia\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala Archimedesa.csproj.GenerateResource.cache
+C:\Users\julek\Studia\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala Archimedesa.csproj.CoreCompileInputs.cache
+C:\Users\julek\Studia\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala Archimedesa.exe
+C:\Users\julek\Studia\repos\Spirala Archimedesa\Spirala Archimedesa\obj\Debug\Spirala Archimedesa.pdb
